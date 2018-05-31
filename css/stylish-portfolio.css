@@ -39,6 +39,11 @@ img {
   border: 1px solid #1D809F;
 }
 
+li {
+  list-style-type: none !important;
+  margin-bottom: 10px;
+}
+
 .masthead {
   color: #4c4c4c;
 }
@@ -128,12 +133,6 @@ img {
   background-position: center center;
   background-repeat: no-repeat;
   background-size: cover;
-
-}
-
-li {
-  list-style-type: none;
-  margin-bottom: 10px;
 }
 
 #experience li {
